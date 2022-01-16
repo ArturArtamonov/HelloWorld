@@ -1,6 +1,7 @@
 # HelloWorld
 My First Project
-This textfile is created with markup language
+
+This textfile is created with Markdown formatting syntax.
 
 This is not a program code
 
